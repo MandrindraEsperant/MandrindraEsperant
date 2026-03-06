@@ -4,9 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mandrindra%20Espérant&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20DevOps%20Enthusiast&descAlignY=58&descAlign=50&descSize=16&descColor=a8dadc"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+Node.js+%7C+NestJS+%7C+Next.js;React+%7C+Java+%7C+Spring+Boot+%7C+Python;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+DevOps;Building+scalable+%26+elegant+software+🚀" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=TypeScript+%7C+Node.js+%7C+NestJS+%7C+Next.js;React+%7C+Java+%7C+Spring+Boot+%7C+Python;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+DevOps;Building+scalable+%26+elegant+software+🚀"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/>
 <br/>
@@ -50,11 +55,18 @@ const esperant = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🐳 DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![DevOps](https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -91,28 +103,6 @@ const esperant = {
 [![Esperant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mandrindraesperant&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mandrindraesperant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandrindraesperant&repo=esperant-porfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/mandrindraesperant)
-
-</div>
-
-> ⭐ *Replace the repo name above with your actual pinned repositories!*
 
 ---
 
