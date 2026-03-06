@@ -5,10 +5,8 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img 
-    src="https://git.io/typing-svg?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=TypeScript+%7C+Node.js+%7C+NestJS+%7C+Next.js;React+%7C+Java+%7C+Spring+Boot+%7C+Python;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+DevOps;Building+scalable+%26+elegant+software"
-    alt="Typing SVG"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+Node.js+%7C+NestJS+%7C+Next.js;React+%7C+Java+%7C+Spring+Boot+%7C+Python;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+DevOps;Building+scalable+%26+elegant+software+🚀" alt="Typing SVG" />
+
 </p>
 
 <br/>
@@ -46,7 +44,7 @@ const esperant = {
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
