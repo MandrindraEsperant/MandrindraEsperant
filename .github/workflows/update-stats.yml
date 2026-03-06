@@ -14,10 +14,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Top Languages
-        run: |
-          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          "https://github-readme-stats.vercel.app/api/top-langs/?username=MandrindraEsperant&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" \
-          -o top-langs.svg
+        run: |          
+          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=MandrindraEsperant&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&token=${{ secrets.GH_TOKEN }}" -o top-langs.svg
+      
 
       - name: Commit changes
         run: |
