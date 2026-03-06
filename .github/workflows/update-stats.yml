@@ -1,16 +1,28 @@
-name: Update stats
+name: Update GitHub Stats
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Test action
-        run: echo "GitHub Actions fonctionne"
+      - name: Generate Top Languages
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=MandrindraEsperant&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" \
+          -o top-langs.svg
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add top-langs.svg
+          git commit -m "update github stats" || echo "no changes"
+          git push
