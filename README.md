@@ -4,10 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mandrindra%20Espérant&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20DevOps%20Enthusiast&descAlignY=58&descAlign=50&descSize=16&descColor=a8dadc"/>
 
 
-
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=TypeScript+%7C+Node.js+%7C+NestJS+%7C+Next.js;React+%7C+Java+%7C+Spring+Boot+%7C+Python;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+DevOps;Building+scalable+%26+elegant+software+%F0%9F%9A%80" alt="Typing SVG" />
-
 
 <br/>
 <br/>
@@ -82,9 +80,9 @@ const esperant = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandrindraesperant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MandrindraEsperant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrindraesperant&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MandrindraEsperant&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
 
 </div>
 
