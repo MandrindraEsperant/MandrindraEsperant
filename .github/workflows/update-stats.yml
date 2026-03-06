@@ -1,0 +1,16 @@
+name: Update stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Test action
+        run: echo "GitHub Actions fonctionne"
