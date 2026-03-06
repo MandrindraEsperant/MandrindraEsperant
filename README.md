@@ -30,7 +30,7 @@
 const esperant = {
   name: "Mandrindra Espérant Randriamahasoa",
   location: "Madagascar 🇲🇬",
-  role: "Full-Stack Developer & Backend Architect",
+  role: "Full-Stack Developer | Backend Architect | DevOps Engineer",
   currentFocus: ["Microservices", "Cloud-Native Apps", "API Design"],
   passions: ["Clean Code", "System Design", "Open Source"],
   funFact: "I turn ☕ coffee into scalable APIs and beautiful UIs."
